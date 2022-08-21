@@ -43,7 +43,7 @@ b{
   margin-bottom: 15px;
 }
 .white1,.white2,.white3,.white4,.white5,.white6,.white7,.white8,.white9{
-  color: yellowgreen;
+  color: rgb(170, 79, 245);
   font-size: 10px;
 }
 span{
@@ -53,6 +53,6 @@ span{
   color: black;
 }
 h4{
-  color: white;
+  color:mediumvioletred;
   font-weight: bold;
 }
